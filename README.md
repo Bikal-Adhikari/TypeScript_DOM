@@ -48,7 +48,7 @@ Open `index.html` in your preferred web browser. You will be presented with a us
 - `index.html` - The main HTML file that contains the structure of the application.
 - `styles.css` - The CSS file that contains the styles for the application.
 - `src/` - The directory containing TypeScript source files.
-  - `app.ts` - The main TypeScript file that contains the logic for the application.
+  - `main.ts` - The main TypeScript file that contains the logic for the application.
 - `dist/` - The directory containing compiled JavaScript files.
 
 ## Contributing
